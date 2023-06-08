@@ -3,8 +3,10 @@
  * Created:   09.06.2023
  **/
 
-function sortUserName() {
-    var userName = window.prompt("Hi. Please tell me your name so I can fix it,");
+var userName = window.prompt("Hi. Please tell me your name so I can fix it,");
+
+function sortUserName(userName) {
+    // var userName = window.prompt("Hi. Please tell me your name so I can fix it,");
     console.log("userName = ", userName);// split string to array
     var nameArray = userName.split('');
     console.log("nameArray = ", nameArray);// sort the array
@@ -18,4 +20,4 @@ function sortUserName() {
 }
 
 // output
-document.writeln("Oh hey, I've fixed your name: ", sortUserName());
+document.writeln("Oh hey, I've fixed your name: ", sortUserName(userName));
