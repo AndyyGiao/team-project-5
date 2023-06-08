@@ -1,0 +1,15 @@
+body {
+    background-color: #eeebdd;
+}
+
+.content {
+    border: 1px solid grey;
+    background-color: #ffffff;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#my-portrait {
+    width: 500px;
+}
+

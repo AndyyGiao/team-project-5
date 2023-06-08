@@ -1,0 +1,14 @@
+#content,#output {
+    border: 1px solid gray;
+    background-color: #fef7ec;
+    padding: 10px;
+}
+
+.error {
+    color: red;
+}
+
+.str {
+    width: 16%;
+    display: inline-block;
+}

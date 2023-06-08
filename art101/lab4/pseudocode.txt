@@ -1,0 +1,14 @@
+Task1: Baked bread
+1. Beat the eggs, pour in flour, milk, baking powder, sugar and knead into a dough
+2. Add oil and continue kneading, knead well and ferment
+3. Grease the bottom of the bowl and ferment the dough until it is 2 times bigger.
+4. After fermentation, continue to knead, exhaust, roll into a small dough, rolled full of coconut, into a pot of warm water fermentation until 1.5 times large, remove
+5. Preheat 200 degrees for 10 minutes in advance, then into the oven, the lower plate 170 degrees Celsius heating for 10 minutes, continue to ferment, and then the upper plate 170 degrees Celsius and then baked for 10 minutes
+
+Task2: Tic-Tac-Toe game
+1. Print the board before each turn
+2. Accept user input
+3. Validate user move
+4. Evaluate possible moves
+5. Choose computer move
+6. Test of win or draw condition
