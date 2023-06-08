@@ -8,7 +8,7 @@ $(document).ready(function () {
 
     var currNum = 1, max = 1;
 
-    getAndPutData("http://xkcd.com/info.0.json", true);
+    getAndPutData("https://xkcd.com/info.0.json", true);
 
     // getAndPutData
     function getAndPutData(url, first) {
